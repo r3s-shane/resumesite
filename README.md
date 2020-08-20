@@ -1,4 +1,4 @@
-# resumesite
+# Shane Peden's One Page Resume Site
 This is the code for my personal resume website - www.ShanePeden.com
 
 Linkedin is a great way to showcase your professional experience, but I still love keeping a perosnal site and resume page.
